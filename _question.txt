@@ -1,0 +1,5 @@
+go mod init github.com/wintech1995/godemo
+go get -u github.com/go-sql-driver/mysql
+
+go mod init wintech1995/my-app
+go get .
